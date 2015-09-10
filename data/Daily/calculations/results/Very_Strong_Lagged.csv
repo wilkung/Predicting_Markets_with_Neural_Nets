@@ -1,0 +1,9 @@
+Factor A,Factor B,Lagged Correlation
+"WILL2500IND(Wilshire 2500 Total Market Indexë©), ",T10YIE(10-Year Breakeven Inflation Rate),1.0
+"WILL2500INDGR(Wilshire 2500 Growth Total Market Index ë©), ",T10YIE(10-Year Breakeven Inflation Rate),1.0
+"WILL2500INDVAL(Wilshire 2500 Value Total Market Index ë©), ",T10YIE(10-Year Breakeven Inflation Rate),1.0
+"WILL2500PR(Wilshire 2500 Price Indexë©), ",T10YIE(10-Year Breakeven Inflation Rate),1.0
+"WILL2500PRGR(Wilshire 2500 Growth Price Index ë©), ",T10YIE(10-Year Breakeven Inflation Rate),1.0
+"WILL2500PRVAL(Wilshire 2500 Value Price Index ë©), ",T10YIE(10-Year Breakeven Inflation Rate),1.0
+"WILL4500IND(Wilshire 4500 Total Market Indexë©), ",T10YIE(10-Year Breakeven Inflation Rate),-1.0
+"WILL4500PR(Wilshire 4500 Price Indexë©), ",T10YIE(10-Year Breakeven Inflation Rate),-1.0
